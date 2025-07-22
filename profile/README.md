@@ -1,6 +1,6 @@
 # Nookat
 
-Nookat is the **free, open-source** Docker client, built with Rust and Tauri for maximum performance and security.
+Nookat is the **free, open-source** Docker client, built with Rust and Tauri.
 
 **Get started for free.** [Download](https://github.com/nookat-io/nookat/releases) | [Website](https://nookat-io.github.io)
 
